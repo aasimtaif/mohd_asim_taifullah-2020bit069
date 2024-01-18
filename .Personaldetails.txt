@@ -1,0 +1,29 @@
+Name:Mohd Asim Taifullah
+Projects:[
+    1:{
+        Name of the project: Hotel Booking Web Site
+        Theme of Project and Objective:Is to create a web app  where users acn book the hootel rooms
+    },
+    2:{
+        Name of the project: Admin DashBord
+        Theme of Project and Objective:Create a dashbord for admin to manage the data
+    },
+    3:{
+        Name of the project: Admin DashBord
+        Theme of Project and Objective:Create a dashbord for admin to manage the data
+    },
+    4:{
+        Name of the project: E com website
+        Theme of Project and Objective:create a responsive ecommerece  web app in which redux Toolkit is used to handle cart state 
+    },
+    5:{
+        Name of the project:Lift Simulation
+        Theme of Project and Objective:To demonstrate hands on experence on javascript and DOM manipulation
+    },
+    6:{
+    Name of the project: resume Generator
+    Theme of Project and Objective:Create resume for  users  according to thier given data  
+    }
+]
+ Subject Of Interst:[javascript, React ,Redux ,MongDB,Express ,Nodejs],
+ goal:Fullstack Developer ,
